@@ -10,3 +10,5 @@ class Dog
     @name
   end
 end
+
+lassie = Dog.new("Collie")
